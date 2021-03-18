@@ -1,9 +1,9 @@
 {
-    "name": "create-node-cli",
+    "name": "ke-create-node-cli",
     "description": "CLI to create Node JS CLIs",
     "version": "0.0.1",
     "bin": {
-        "create-node-cli": "index.js",
+        "ke-create-node-cli": "index.js",
         "ncli": "index.js"
     },
     "keywords": [
