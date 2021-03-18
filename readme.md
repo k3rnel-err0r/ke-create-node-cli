@@ -12,10 +12,10 @@
 # Install
 ```javascript
 // Recommended. 
-npx create-node-cli
+npx ke-create-node-cli
  
 // OR an alternative global install. 
-npm install -g create-node-cli
+npm install -g ke-create-node-cli
 ```
 # Usage
 <p>In your terminal, just run the CLI</p>
