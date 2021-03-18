@@ -7,17 +7,17 @@
         "ncli": "index.js"
     },
     "keywords": [
-		"cli",
-		"create-node-cli",
-		"k3rnel_err0r"
-	],
-	"author": {
-		"name": "Antonio Quintero-Felizzola",
-		"email": "antonio.qfel@gmail.com",
-		"url": "https://twitter.com/k3rnel_err0r"
-	},
-	"license": "ISC",
-	"repository": "k3rnel-err0r/ke-create-node-cli",
+        "cli",
+        "create-node-cli",
+        "k3rnel_err0r"
+    ],
+    "author": {
+        "name": "Antonio Quintero-Felizzola",
+        "email": "antonio.qfel@gmail.com",
+        "url": "https://twitter.com/k3rnel_err0r"
+    },
+    "license": "ISC",
+    "repository": "k3rnel-err0r/ke-create-node-cli",
     "dependencies": {
         "await-to-js": "^3.0.0",
         "chalk": "^3.0.0",
